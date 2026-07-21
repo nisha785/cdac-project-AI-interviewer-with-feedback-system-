@@ -1,0 +1,25 @@
+{
+  "session_id": {
+    "type": "integer",
+    "required": true
+  },
+  "question_id": {
+    "type": "integer",
+    "required": true
+  },
+  "accuracy_score": {
+    "type": "float",
+    "range": [0, 100],
+    "required": true
+  },
+  "speech_score": {
+    "type": "float",
+    "range": [0, 100],
+    "required": true
+  },
+  "facial_score": {
+    "type": "float",
+    "range": [0, 100],
+    "required": true
+  }
+}

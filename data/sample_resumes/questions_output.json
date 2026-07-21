@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "What programming languages are you proficient in?",
+      "ideal_answer": "I am proficient in Python, Java, and SQL."
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "Can you list some of the machine learning frameworks you have experience with?",
+      "ideal_answer": "I have experience with TensorFlow, PyTorch, Scikit-learn, and XGBoost."
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "What is your experience with cloud platforms?",
+      "ideal_answer": "I have experience with AWS, specifically with EC2, S3, and IAM."
+    },
+    {
+      "id": 4,
+      "difficulty": "medium",
+      "question": "How do you approach building a REST API for serving machine learning models?",
+      "ideal_answer": "I use frameworks like FastAPI or Flask to build the API, and integrate it with a backend database like PostgreSQL."
+    },
+    {
+      "id": 5,
+      "difficulty": "medium",
+      "question": "Can you explain the concept of containerization and how you have used it in your projects?",
+      "ideal_answer": "Containerization is a way to package an application and its dependencies into a single container. I have used Docker to containerize services and deploy them on AWS EC2."
+    },
+    {
+      "id": 6,
+      "difficulty": "medium",
+      "question": "How do you handle data analysis and visualization in your projects?",
+      "ideal_answer": "I use libraries like Pandas and Matplotlib to perform exploratory data analysis and build dashboards."
+    },
+    {
+      "id": 7,
+      "difficulty": "hard",
+      "question": "Can you describe your experience with natural language processing and how you have applied it in your projects?",
+      "ideal_answer": "I have experience with NLP libraries like spaCy and have applied it in projects like building a resume-screening pipeline using spaCy NLP and XGBoost."
+    },
+    {
+      "id": 8,
+      "difficulty": "hard",
+      "question": "How do you approach building a machine learning pipeline, from data preprocessing to model deployment?",
+      "ideal_answer": "I follow a structured approach, starting with data preprocessing, then building and training the model, and finally deploying it using REST APIs and containerization."
+    },
+    {
+      "id": 9,
+      "difficulty": "hard",
+      "question": "Can you explain the concept of transfer learning and how you have used it in your projects?",
+      "ideal_answer": "Transfer learning is a technique where a pre-trained model is used as a starting point for a new model. I have used transfer learning in projects like building an image classification model using MobileNetV2 transfer learning in TensorFlow."
+    },
+    {
+      "id": 10,
+      "difficulty": "hard",
+      "question": "Can you describe your experience with DevOps tools and how you have applied them in your projects?",
+      "ideal_answer": "I have experience with DevOps tools like Jenkins and have used it to set up CI/CD pipelines for deploying containerized services on AWS EC2."
+    }
+  ]
+}
