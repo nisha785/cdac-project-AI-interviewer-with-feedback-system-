@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "confidence_score": 0.795,
+    "clarity": 0.544,
+    "filler_word_freq": 0.158,
+    "pace_wpm": 124.1
+  },
+  {
+    "id": 2,
+    "confidence_score": 0.638,
+    "clarity": 0.872,
+    "filler_word_freq": 0.186,
+    "pace_wpm": 155.9
+  },
+  {
+    "id": 3,
+    "confidence_score": 0.896,
+    "clarity": 0.94,
+    "filler_word_freq": 0.094,
+    "pace_wpm": 155.1
+  },
+  {
+    "id": 4,
+    "confidence_score": 0.775,
+    "clarity": 0.728,
+    "filler_word_freq": 0.179,
+    "pace_wpm": 138.1
+  },
+  {
+    "id": 5,
+    "confidence_score": 0.644,
+    "clarity": 0.759,
+    "filler_word_freq": 0.049,
+    "pace_wpm": 147.6
+  },
+  {
+    "id": 6,
+    "confidence_score": 0.887,
+    "clarity": 0.548,
+    "filler_word_freq": 0.155,
+    "pace_wpm": 155.5
+  },
+  {
+    "id": 7,
+    "confidence_score": 0.772,
+    "clarity": 0.733,
+    "filler_word_freq": 0.005,
+    "pace_wpm": 151.8
+  },
+  {
+    "id": 8,
+    "confidence_score": 0.909,
+    "clarity": 0.903,
+    "filler_word_freq": 0.128,
+    "pace_wpm": 114.7
+  },
+  {
+    "id": 9,
+    "confidence_score": 0.685,
+    "clarity": 0.827,
+    "filler_word_freq": 0.07,
+    "pace_wpm": 123.0
+  },
+  {
+    "id": 10,
+    "confidence_score": 0.843,
+    "clarity": 0.729,
+    "filler_word_freq": 0.128,
+    "pace_wpm": 153.6
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "communication": {
+    "summary": "The candidate demonstrated varying levels of speech clarity and confidence, with a mean clarity score of 0.758 and a mean confidence score of 0.784, indicating some room for improvement in articulating their thoughts clearly and convincingly. The trend values of 0.0059 for clarity and 0.0064 for confidence suggest a slight improvement in these areas over the course of the session. However, the minimum scores of 0.544 for clarity and 0.638 for confidence indicate that there were moments where the candidate struggled to communicate effectively.",
+    "score_out_of_10": 7
+  },
+  "answer_quality": {
+    "summary": "The candidate achieved a perfect score in terms of answer accuracy, with a mean, minimum, and maximum accuracy score of 1.0, indicating that their responses were consistently accurate and relevant. The lack of variation in accuracy scores suggests that the candidate was well-prepared and knowledgeable about the subject matter. The trend value of 0.0 indicates that the candidate maintained a consistent level of accuracy throughout the session.",
+    "score_out_of_10": 10
+  },
+  "body_language": {
+    "summary": "The candidate's facial emotion score was relatively low, with a mean score of 0.62 and a minimum score of 0.437, indicating that they may have appeared unengaged or unenthusiastic at times. The negative trend value of -0.0213 suggests that the candidate's emotional expression may have declined over the course of the session. However, the candidate maintained a relatively consistent level of eye contact, with a mean eye contact ratio of 0.695.",
+    "score_out_of_10": 6
+  },
+  "overall_trend": "The candidate's performance showed a slight improvement in speech clarity and confidence over the course of the session, with trend values of 0.0059 and 0.0064, respectively. However, their facial emotion score declined, with a trend value of -0.0213, suggesting that they may have become less engaged or enthusiastic as the session progressed.",
+  "action_plan": [
+    "Practice responding to questions with more varied and expressive facial emotions to improve the facial emotion score, which was particularly low for questions 4, 5, and 10.",
+    "Focus on maintaining consistent eye contact throughout the session, building on the relatively strong mean eye contact ratio of 0.695.",
+    "Work on articulating thoughts more clearly and confidently, particularly in moments where the speech clarity score was low, such as when it dipped to a minimum of 0.544."
+  ]
+}

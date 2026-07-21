@@ -1,0 +1,92 @@
+[
+  {
+    "question": "What programming languages are you proficient in?",
+    "candidate_answer": "I am proficient in Python, Java, and SQL.",
+    "semantic_similarity": 1.0,
+    "keyword_coverage": 1.0,
+    "weighted_accuracy_score": 1.0,
+    "id": 1,
+    "difficulty": "easy"
+  },
+  {
+    "question": "Can you list some of the machine learning frameworks you have experience with?",
+    "candidate_answer": "I have experience with TensorFlow, PyTorch, Scikit-learn, and XGBoost.",
+    "semantic_similarity": 1.0,
+    "keyword_coverage": 1.0,
+    "weighted_accuracy_score": 1.0,
+    "id": 2,
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is your experience with cloud platforms?",
+    "candidate_answer": "I have experience with AWS, specifically with EC2, S3, and IAM.",
+    "semantic_similarity": 1.0,
+    "keyword_coverage": 1.0,
+    "weighted_accuracy_score": 1.0,
+    "id": 3,
+    "difficulty": "easy"
+  },
+  {
+    "question": "How do you approach building a REST API for serving machine learning models?",
+    "candidate_answer": "I use frameworks like FastAPI or Flask to build the API, and integrate it with a backend database like PostgreSQL.",
+    "semantic_similarity": 1.0,
+    "keyword_coverage": 1.0,
+    "weighted_accuracy_score": 1.0,
+    "id": 4,
+    "difficulty": "medium"
+  },
+  {
+    "question": "Can you explain the concept of containerization and how you have used it in your projects?",
+    "candidate_answer": "Containerization is a way to package an application and its dependencies into a single container. I have used Docker to containerize services and deploy them on AWS EC2.",
+    "semantic_similarity": 1.0,
+    "keyword_coverage": 1.0,
+    "weighted_accuracy_score": 1.0,
+    "id": 5,
+    "difficulty": "medium"
+  },
+  {
+    "question": "How do you handle data analysis and visualization in your projects?",
+    "candidate_answer": "I use libraries like Pandas and Matplotlib to perform exploratory data analysis and build dashboards.",
+    "semantic_similarity": 1.0,
+    "keyword_coverage": 1.0,
+    "weighted_accuracy_score": 1.0,
+    "id": 6,
+    "difficulty": "medium"
+  },
+  {
+    "question": "Can you describe your experience with natural language processing and how you have applied it in your projects?",
+    "candidate_answer": "I have experience with NLP libraries like spaCy and have applied it in projects like building a resume-screening pipeline using spaCy NLP and XGBoost.",
+    "semantic_similarity": 1.0,
+    "keyword_coverage": 1.0,
+    "weighted_accuracy_score": 1.0,
+    "id": 7,
+    "difficulty": "hard"
+  },
+  {
+    "question": "How do you approach building a machine learning pipeline, from data preprocessing to model deployment?",
+    "candidate_answer": "I follow a structured approach, starting with data preprocessing, then building and training the model, and finally deploying it using REST APIs and containerization.",
+    "semantic_similarity": 1.0,
+    "keyword_coverage": 1.0,
+    "weighted_accuracy_score": 1.0,
+    "id": 8,
+    "difficulty": "hard"
+  },
+  {
+    "question": "Can you explain the concept of transfer learning and how you have used it in your projects?",
+    "candidate_answer": "Transfer learning is a technique where a pre-trained model is used as a starting point for a new model. I have used transfer learning in projects like building an image classification model using MobileNetV2 transfer learning in TensorFlow.",
+    "semantic_similarity": 1.0,
+    "keyword_coverage": 1.0,
+    "weighted_accuracy_score": 1.0,
+    "id": 9,
+    "difficulty": "hard"
+  },
+  {
+    "question": "Can you describe your experience with DevOps tools and how you have applied them in your projects?",
+    "candidate_answer": "I have experience with DevOps tools like Jenkins and have used it to set up CI/CD pipelines for deploying containerized services on AWS EC2.",
+    "semantic_similarity": 1.0,
+    "keyword_coverage": 1.0,
+    "weighted_accuracy_score": 1.0,
+    "id": 10,
+    "difficulty": "hard"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "emotion_score": 0.675,
+    "eye_contact_ratio": 0.562
+  },
+  {
+    "id": 2,
+    "emotion_score": 0.863,
+    "eye_contact_ratio": 0.685
+  },
+  {
+    "id": 3,
+    "emotion_score": 0.811,
+    "eye_contact_ratio": 0.677
+  },
+  {
+    "id": 4,
+    "emotion_score": 0.438,
+    "eye_contact_ratio": 0.853
+  },
+  {
+    "id": 5,
+    "emotion_score": 0.437,
+    "eye_contact_ratio": 0.621
+  },
+  {
+    "id": 6,
+    "emotion_score": 0.617,
+    "eye_contact_ratio": 0.545
+  },
+  {
+    "id": 7,
+    "emotion_score": 0.529,
+    "eye_contact_ratio": 0.872
+  },
+  {
+    "id": 8,
+    "emotion_score": 0.787,
+    "eye_contact_ratio": 0.791
+  },
+  {
+    "id": 9,
+    "emotion_score": 0.555,
+    "eye_contact_ratio": 0.656
+  },
+  {
+    "id": 10,
+    "emotion_score": 0.487,
+    "eye_contact_ratio": 0.689
+  }
+]
